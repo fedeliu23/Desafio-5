@@ -43,3 +43,16 @@ transform: translateX(200px);
     border: solid;
     margin: 30px 20px;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.redes {
+    margin: 0 10px;
+    width: 50px;
+    height: 50px;
+    align-items: flex-end;
+    padding: 10px 0;
+}
