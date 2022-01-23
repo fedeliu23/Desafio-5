@@ -1,7 +1,9 @@
 body {
     background-color: #ccc;
 }
-
+h1 {
+    padding: 50px 0px 30px 0px;
+}
 h2 {
     background-color: antiquewhite;
     color: rgb(7, 7, 49);
